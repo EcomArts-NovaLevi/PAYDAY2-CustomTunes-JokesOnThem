@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_newsongid" : "Song Name",
+    "menu_jukebox_screen_newsongid" : "Song Name"
+}
