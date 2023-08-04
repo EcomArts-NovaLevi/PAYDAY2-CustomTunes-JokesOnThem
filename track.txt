@@ -1,7 +1,7 @@
 {
-    "id": "custom_ost_newsongid",
+    "id": "custom_ost_jokesthem",
     "volume": 0.8,
-    "name": "Song Name",
+    "name": "Jokes On Them",
     "fade_duration": 0.1,
     "events": {
         "setup": {
@@ -10,14 +10,13 @@
             "volume": 0.7
         },
         "control" : {
-            "start_file": "control_start.ogg",
             "file": "control_loop.ogg"
         },
         "buildup": {
             "file": "buildup.ogg"
         },
         "assault" : {
-            "start_file": "assault_start.ogg",
+	    "start_file": "assault_start.ogg",
             "file": "assault_loop.ogg"
         }
     }

@@ -1,9 +1,9 @@
-<table name="Song Name" directory="xd">
+<table name="Jokes On Them" directory="xd">
     <Localization directory="loc" default="en.txt"/>
-    <HeistMusic id="newsongid" directory="sounds">
+    <HeistMusic id="jokesthem" directory="sounds">
         <event name="setup" source="setup.ogg"/>
         <event name="anticipation" source="buildup.ogg"/>
         <event name="assault" start_source="assault_start.ogg" source="assault_loop.ogg"/>
-        <event name="control" start_source="control_start.ogg" source="control_loop.ogg"/>
+        <event name="control" source="control_loop.ogg"/>
     </HeistMusic>
 </table>
