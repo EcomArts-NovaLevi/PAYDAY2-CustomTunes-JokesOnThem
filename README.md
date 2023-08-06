@@ -19,3 +19,5 @@ main.xml
 
 track.txt
 This file designates the volume (read from 0 to 1, using decimal values between) as well as how the .xml file reads from the file to the game engine.
+
+This README file can safely be discarded from the folder if needed as well!
